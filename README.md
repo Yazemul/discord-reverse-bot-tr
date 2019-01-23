@@ -1,1 +1,0 @@
-# discord-reverse-bot-tr
